@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ian-naps
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... front end web development
+- 👀 I’m interested in ... getting a job in software engineering
+- 🌱 I’m currently learning ... javascript and reviewing C++
+- 💞️ I’m looking to collaborate on ... full stack web development
 - 📫 How to reach me ... ian.napoli8@gmail.com
 
 <!---
